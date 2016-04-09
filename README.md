@@ -1,6 +1,11 @@
 @author: tobias hoelzer
 Feb 2016
 
+If you want to try it, clone the repository and run
+python run_03.py
+
+
+
 QUICKSTART:
 
 Use the python script 'run.py' the following way:
