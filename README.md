@@ -4,6 +4,8 @@ Feb 2016
 If you want to try it, clone the repository and run
 python run_03.py
 
+Dependencies:
+numpy, matplotlib, glob, scipy
 
 
 QUICKSTART:
